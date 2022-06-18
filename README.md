@@ -1,13 +1,3 @@
-<style>
-ul{
-  list-style-type:square;
-}
-
-.line1{
-  font-size: 30px
-}
-</style>
-
 <div>
   <div class="line1">
     <span>B</span>
@@ -48,9 +38,9 @@ ul{
 </div>
 <br>
 
-<img align='right' src="https://media1.giphy.com/media/4jsvMsIehvCOdF6ngo/giphy.gif?cid=ecf05e47edv4uw1x5qp2b6nrcnin6hdxxopvvx9p0av6x1p6&rid=giphy.gif&ct=g" width="250" style="border-radius:40%">
+<img align='right' src="https://acegif.com/wp-content/gifs/hello-24.gif" width="300">
 
-<a href="https://www.linkedin.com/in/brenohpx/"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" width="80"> • <a href="mailto:brenohpx@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="25"></a>
+<a href="https://www.linkedin.com/in/brenohpx/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" width="30"></a> • <a href="mailto:brenohpx@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="37"></a>
 
 
 
@@ -88,13 +78,13 @@ ul{
 
 ---
 #### Languages and tools:
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://c.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://c.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif"></code>
 
 ---
 
